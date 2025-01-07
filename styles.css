@@ -1,0 +1,20 @@
+html {
+  background-color: #2a2520;  
+}
+
+header {
+  height: 7vh;
+  border-bottom: 5px dotted #f5f5dc;
+}
+
+#logo {
+  display: inline-block;
+  box-sizing: border-box;
+  height: inherit;
+  padding: 1vh 0vw 1vh 1vw;
+  /*border: 5px solid #13bcfe;*/
+}
+
+#logo > img {
+  max-height: 100%;
+}
