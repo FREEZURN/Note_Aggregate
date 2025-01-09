@@ -1,20 +1,48 @@
-html {
+/* on most sites, the nav bar does not resize according to the viewport dimensions */
+/* consider min- or max- height with scaling height */
+
+body {
+  margin: 0;
   background-color: #2a2520;  
+  font-size: 2vh;
 }
 
 header {
   height: 7vh;
   border-bottom: 5px dotted #f5f5dc;
+  position: fixed;
+  top: 0;
+  width: 100vw;
 }
 
 #logo {
   display: inline-block;
   box-sizing: border-box;
   height: inherit;
-  padding: 1vh 0vw 1vh 1vw;
+  padding: 1vh 1vw;
   /*border: 5px solid #13bcfe;*/
 }
 
 #logo > img {
   max-height: 100%;
+}
+
+nav {
+  display: flex;
+  float: right;
+  align-items: center;
+  height: inherit;
+  /*border: 5px solid #13bcfe;*/
+}
+
+#cs, #misc {
+  display: inline;
+  font-family: Syne, sans-serif;
+  color: #f5f5dc;
+  margin-right: 3vw;
+  /*border: 5px solid #13bcfe; */
+}
+
+main {
+  margin-top: 7vh;
 }
