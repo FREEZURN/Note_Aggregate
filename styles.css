@@ -1,48 +1,113 @@
 /* on most sites, the nav bar does not resize according to the viewport dimensions */
 /* consider min- or max- height with scaling height */
 
+@font-face {
+  font-family: "0xProto";
+  src: url("fonts/0xProto-Regular.woff2") format("woff2"),
+    url("fonts/0xProto-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+ @font-face {
+   font-family: "0xProto";
+   src: url("fonts/0xProto-Bold.woff2") format("woff2"),
+    url("fonts/0xProto-Bold.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+ }
+
+ @font-face {
+   font-family: "0xProto";
+   src: url("fonts/0xProto-Italic.woff2") format("woff2"),
+    url("fonts/0xProto-Italic.ttf") format("truetype");
+   font-weight: normal;
+   font-style: italic;
+ }
+
 body {
+  color: #c8baa4;
+  background-color: #252221;  
   margin: 0;
-  background-color: #2a2520;  
-  font-size: 2vh;
+  font: 300 medium/2 "IBM Plex Sans JP", sans-serif;
 }
 
 header {
-  height: 7vh;
-  border-bottom: 5px dotted #f5f5dc;
   position: fixed;
   top: 0;
-  width: 100vw;
+  background-color: inherit;
+  width: 100%;
+  height: 77px;
+  border-bottom: 3px solid #322f2e;
 }
 
-#logo {
-  display: inline-block;
-  box-sizing: border-box;
+#home {
   height: inherit;
-  padding: 1vh 1vw;
-  /*border: 5px solid #13bcfe;*/
-}
-
-#logo > img {
-  max-height: 100%;
+  float: left;
+  display: inline flex;
+  align-items: center;
+  padding: 0 13.5px;
 }
 
 nav {
-  display: flex;
-  float: right;
-  align-items: center;
   height: inherit;
-  /*border: 5px solid #13bcfe;*/
+  float: right;
+  display: inline flex;
+  align-items: center;
 }
 
 #cs, #misc {
-  display: inline;
-  font-family: Syne, sans-serif;
-  color: #f5f5dc;
-  margin-right: 3vw;
-  /*border: 5px solid #13bcfe; */
+  font: 800 28px/1 "Syne", sans-serif;
+  padding: 14px;
+  margin-right: 60px;
 }
 
 main {
-  margin-top: 7vh;
+  margin: 180px 25vw 3vh 25vw;
+}
+
+h1 {
+  font: 800 2.6em/1 "Syne", sans-serif;
+  margin-top: 0;
+  margin-bottom: 0.15em;
+}
+
+h4 {
+  color: #575453;
+  font-size: 0.9em;
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+#nd {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.8em;
+  font-weight: 600;
+  line-height: 1;
+  margin-top: 3em;
+  margin-bottom: 0.3em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+pre {
+  margin: 0;
+}
+
+code {
+  display: block;
+  background-color: #1e222a;
+  border: 3px solid #22262e;
+  border-radius: 12px;
+  color: #abb2bf;
+  font-family: "0xProto", monospace;
+  font-weight: normal;
+  line-height: 1.25;
+  margin-bottom: 2em;
 }
