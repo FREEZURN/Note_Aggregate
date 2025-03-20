@@ -1,6 +1,3 @@
-/* on most sites, the nav bar does not resize according to the viewport dimensions */
-/* consider min- or max- height with scaling height */
-
 @font-face {
   font-family: "0xProto";
   src: url("fonts/0xProto-Regular.woff2") format("woff2"),
