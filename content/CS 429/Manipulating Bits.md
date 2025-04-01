@@ -13,6 +13,8 @@ x~-~ is analogous to fk is a positive integer that is less than or equal to the 
 ## Integer Arithmetic
 **Unsigned addition** `x ⊕(n, u) y` starts at `x` on the number wheel and moves `y` times clockwise. If it goes past the break, there is an unsigned carry. The sum is **(x + y) mod 2^n**. The **additive inverse** of a number `⊖(n, u)` is whatever generates a sum of 0 via unsigned carry; 0 has a special case in that its additive inverse is itself. **Unsigned subtraction** `x ⊖(n, u) y` is addition between `x` and the additive inverse of `y`. 
 **Signed addition** `x ⊕(n, s) y` functions like unsigned addition, except that if `y` is negative, move counter-clockwise. A signed overflow is the unsigned carry equivalent; if the sum is too big, keep subtracting 2^n until within the range; too small and keep adding 2^n. The **additive inverse** `⊖(n, s)` is simply the negation; 0 and -2^n-1 are themselves. Signed subtraction has the same definition as unsigned subtraction.
+
+[signed overflow is if x and y are positive and the result is negative or vise-versa]: #
 #### Another way of calculating the additive inverse is to `NOT` the bit vector and add 1 to it.
 **Multiplication** `⊙` is iterated addition; always start at 0 on the number wheel %% what %%. The product for unsigned is **xy mod 2^n**; U2Sc that for signed. Strength reduction is breaking a factor into powers of 2 then adding the left shifts.
 #### The number of left shifts is the power of 2 you wish to multiply the value by. 
