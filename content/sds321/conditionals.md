@@ -1,5 +1,5 @@
 Given the partial information that event $B$ is true, the probability of event $A$ may change. The formula for **conditional probability** is:
-$$P(A | B) = \frac{P(A \cap B)} {P(B)}$$
+$$P(A | B) = \frac{P(A \cap B)}{P(B)}$$
 The general multiplication rule is a rearrangement: $P(A \cap B) = P(B) \times P(A | B)$.
 ## Probability Trees
 A technique for calculating **joint probability**—$P(A \cap B)$. Vertices are points in the experiment, and edges are the event given previous events. The weight of an edge is the conditional probability; the sum of the weights from one vertex should equal 1. At the end, go down a path and multiply the weights with each other.

@@ -1,23 +1,16 @@
 Instruction Set Architecture is the interface software interacts with to run on hardware %% behavior of machine language is defined by ISA. it is bit vectors encoding instructions??? %% An instruction takes the machine state to another. 
 
-[TODO: figure out where to move this]: #
-Architectural status of machine. It is a way of denoting machine health. The codes are the following:
-- `STAT_AOK`: Normal, code is running
-- `STAT_HLT`: Normal, code has exited
-- `STAT_INS`: Error, tried to load an instruction at an invalid address (e.g., not word-aligned)
-- `STAT_ADR`: Error, tried to access an invalid data memory address
-
 ## ARM
 ARM is a family of ISAs. It is a *load/store architecture*, meaning data from memory must be put in the register in order to perform data-processing operations. Instructions must be word-aligned (4-byte boundary). In the A64 ISA, instructions are 32 bits and little-endian.
 -# A register is essentially **quick-access** memory on the CPU.
 
-The AArch64 execution %% or machine, program ??? %% state supports A64. It has 64-bit registers; the following are the components:
+The AArch64 machine state supports A64. It has 64-bit registers; the following are the components:
 - General-purpose registers from 0 to 30
-- Zero Register `X31` reads `0`, and writes to it are discarded
-- Stack pointer register `SP` contains the address of the newest activation record
+- Stack pointer register `SP` contains the address of the newest activation record (merge)
 - Program counter `PC` that holds the address of the current instruction 
 - Process state `PSTATE` contains condition flags 
-- Memory %% is there a technical name for this %%
+- Data memory
+- Architectural status denotes any errors (refer to the pipeline)
 
 ## Instruction Processing
 Instructions consist of source operands, operation code, destination, and any side-effects. There are three types of operands, but they are all R-values; destination is a register or somewhere in memory. The following is the procedure to processing an instruction.
@@ -51,22 +44,3 @@ When a call to another procedure is made, the local %% program ??? %% state of t
 To support parameters and returned data, registers 0 to 7 handle *data transfer*. Any additional parameters are wedged between the caller's and callee's activation records. The result is then returned in register 0.
 Two general-purpose registers serve *control transfer*. These should be treated as caller-saved registers. The **link register** `LR` resides in 30. It points to the top of the link stack, a stack of return addresses to the caller. The return address is the instruction after the branch. Register 29 is the **frame pointer** `FP`. This serves as a linked list of frame records, which reside inside activation records *somewhere*. On that note, this structure in a way constructs a linked list of activation records. A frame record contains the caller's frame record and the caller's return address *in that order from lowest memory address*. `FP` points to the newest frame record %%it actually points to the frame record of the caller%%.
 %% AArch64 register type table here %%
-
-## Circuits
-The following are building blocks to an FSM.
-
-The program counter is a basic building block of the combinational logic. The current state is `current_PC`, while the next state is `next_PC`. The next state doesn't move forward until the clock becomes a `1` (edge-triggered D flip-flop). There are three possible for the next state:
-- `seq_succ = current_PC + 4`
-- `branch_target = current_PC + branch_offset`
-- `ret_addr = val_a` (`val_a` is usually the value in `X30`)
-
-The instruction memory building block is used to retrieve instruction words. It takes an address input `imem_addr[63:0]` and returns `imem_rval[31:0]`. If `imem_addr` is invalid, `imem_err` is asserted (`STAT_INS` becomes true).
-
-The register file building block relies on the FSM but is not part of it. That is, it provides external inputs and takes in external outputs to the FSM. It allows registers to be read and written to. Six bit quantities specify the desired register; `X31` can either be `XZR` or `SP`. Any number greater than 31 refers to `XZR`. For reading, `src1[5:0]` and `src2[5:0]` are presented and the values come out of `val_a` and `val_b`. Reads are combinational, meaning this is effectively instantaneous. Writes, on the other hand, are clocked with an edge-triggered D flip-flop. The inputs are `val_w[63:0]`, `dst[5:0]`, and `w_enable`. 
-
-Back to the FSM, the ALU building block handles the operations. `PSTATE` also resides here and is set here. There are three control signals:
-- `ALUop[3:0]`: which operation to perform
-- `set_CC`: whether `PSTATE` should be set
-- `cond[3:0]` encodes the condition to check
-
-The data memory building block is also not part of the FSM much the same way as the register file. `dmem_addr[63:0]` is the input containing the address. For reading, `dmem_read` must be true. If so, the data is returned in `dmem_rval[63:0]`. For writing, `dmem_write` must be true. If so, input `dmem_wval[63:0]` is written to the register in accordance to a clock. If `dmem_addr` is invalid, `dmem_err` is true.
