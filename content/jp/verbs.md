@@ -1,5 +1,5 @@
 # Verbs
-Verbs have an attributive and predicative form. For an example of the attributive form, consider the sentence 『食べる野菜』 *"Vegetables that (I || one) eat(s)."*
+Verbs have an attributive and predicative form. For an example of the attributive form, consider the sentence 『食べる野菜』 *"Vegetables that \[I || one\] eat(s)."*
 
 ## Ichidan
 Verbs of this type end in ～る, and it is this that gets replaced in conjugations.
@@ -30,7 +30,7 @@ For the following conjugation tables, verbs ending with ～む will be the examp
 **Basic:**
 | Non-past | Past | Negative | Negative-Past |
 | -------- | ---- | -------- | ------------- |
-| ～む | *Refer to the table below* | ～まない | ～まなかった |
+| ～ぬ | *Refer to the table below* | ～なない | ～ななかった |
 
 *Past*
 | Type | Conjugation |
@@ -44,7 +44,7 @@ For the following conjugation tables, verbs ending with ～む will be the examp
 **Polite:**
 | Non-past | Past | Negative | Negative-Past |
 | -------- | ---- | -------- | ------------- |
-| ～みます | ～みました | ～みません <br> ～まないです | ～みませんでした <br> ～まなかったです |
+| ～にます | ～にました | ～にません <br> ～なないです | ～にませんでした <br> ～ななかったです |
 
 -# Polite conjugations do possess an attributive form, but it is seen as ungrammatical by many.
 
@@ -52,7 +52,7 @@ For the following conjugation tables, verbs ending with ～む will be the examp
 する has many uses. What immediately comes to mind is the phrase "To X," 『Xをする。』 X can either be a verb or noun. More crucially, する (and its conjugations) can turn nouns into verbs by simply attaching to them, for the most part anyway.
 
 There are several other ways this verb can be used. The following list is a couple:
-- "To cost," where the price "modifies" (adverb) the verb
+- "To cost," where the price "modifies" (as an adverb) する
 - "To wear an accessory," transitive
 - "To sense," the five senses or emotion
 
@@ -71,7 +71,9 @@ There are several other ways this verb can be used. The following list is a coup
 -# Polite conjugations do possess an attributive form, but it is seen as ungrammatical by many.
 
 ## "To come" 来る
-来る means "to come" to a place the speaker is, or will be, in. Consider 『明日のパーティに来る？』 *"Will you come to \[my || the\] party tomorrow?"* for a 'will be in' example. "Coming" can either be spatial or temporal. For a temporal example, 『ついに春が来た！』 *"Spring has finally come!"* The following conjugations concern the pronunciations; the first mora is typically replaced with 来.
+来る means "to come" to a place the speaker is, or will be, in. Consider 『明日のパーティに来る？』 — "Will you come to \[my || the\] party tomorrow?" for a "will be in" example. "Coming" can either be spatial or temporal. For a temporal example, 『ついに春が来た！』 — "Spring has finally come!" 
+
+The following conjugations concern the pronunciations; the first mora is typically replaced with 来.
 
 **Basic:**
 
@@ -83,6 +85,6 @@ There are several other ways this verb can be used. The following list is a coup
 
 | Non-past | Past | Negative | Negative-Past |
 | -------- | ---- | -------- | ------------- |
-| きます | しました | きません <br> こないです | きませんでした <br> こなかったです |
+| きます | きました | きません <br> こないです | きませんでした <br> こなかったです |
 
 -# Polite conjugations do possess an attributive form, but it is seen as ungrammatical by many.

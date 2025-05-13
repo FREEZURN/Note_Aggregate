@@ -1,16 +1,16 @@
 # Subject Marker が
-が is a *case particle* that marks the subject of a sentence. It is typically associated with information that would be new to the listener to some capacity.
-
--# A case particle attaches to a noun, and describes the role of said noun.
+**が** is a *case particle* that marks the **subject** of a sentence. A role the subject plays, for instance, is performing actions described by verbs. Additionally, it is a way to introduce information that is contextually new to the listener. That is not to say that the subject is strictly "unregistered information," though.
 
 ## Neutral Statements
-One type of neutral sentence is one that proclaims existence (of the subject). There is also describing the subject with adjectives or adjectival nouns. 
+One common way to use が is in neutral sentences. Some neutral statements proclaim the existence of or describe the subject. 
 
-When the subject "unconsciously" performs an intransitive action, it can be described with a neutral statement. For example, 『台風が上陸しました。』 means *"The typhoon landed."* Describing a feeling—sight, sound, smell, taste, touch—also falls into this category. What is felt would be the subject. 
+The subject "unconsciously" performing an intransitive action is also a neutral statement. For example, 『**台風**が上陸しました。』 — "The **typhoon** landed." 
+
+Describing a feeling from the five senses is a neutral statement as well. However, the subject is not the senser; rather, it is the feeling itself. Dwell on the sentence, 『**寒気**がする。』 — "I'm **chilly**." 
 
 ## Exhaustive Listing
-Compared to the simple copular sentence structure XはYだ, XがY implies that X and only X (of some set) is Y. At the very least, X is, to a greater degree, Y than other choices. だ can be used at the end.
+In a copular sentence, が conveys a sense of, but not strictly complete, *exclusivity* regarding the subject possessing the quality. For example, 『彼が学生です』 — "\[*Of all the people that could be being talked about*,\] He is *the* student."
 
--# To reference the other choices, append のほう to the subject (before が).
+-# To reference the "competitors," append のほう to the subject.
 
-In questions, the interrogative is the subject. However, it must be noted that it comes with the implication that there is only one answer. There is also a slight sense of urgency. The answer becomes the subject of the response.
+In questions, the interrogative is the subject. However, it must be noted that it comes with the implication that there is only one answer. There is also a slight sense of urgency. In the response, the answer is the subject.

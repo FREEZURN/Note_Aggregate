@@ -13,4 +13,4 @@ All adjectives end in い. **This い is also what gets dropped in conjugations*
 
 -# There is no attributive form for polite conjugations.
 
--# For negative, the conjugation can start with くは.
+-# For negative and negative-past, the conjugation can start with ～くは.
