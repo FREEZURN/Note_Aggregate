@@ -1,7 +1,7 @@
 # Particles for Verbs
 
 ## Direct Object を
-This case particle attaches to *whatever is receiving the transitive action*. を is typically pronounced "o" in this context.
+This case particle attaches to *whatever is receiving the transitive action*. を is typically pronounced "o" in this and the following context.
 
 ## Transition を
 The main thing about を is that it indicates control by the agent. Coincidentally, there are some intransitive actions in which the agent is in control. If extra detail about the action is to be given (akin to direct object), then mark that detail with を. For example, 『その金額は**1億ドル**を上回りました。』 — "The amount exceeded **100 million dollars**." 

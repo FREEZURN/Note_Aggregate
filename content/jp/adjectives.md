@@ -1,5 +1,5 @@
 # Adjectives
-All adjectives end in い. **This い is also what gets dropped in conjugations**. Adjectives generally have two forms: predicative and attributive. 
+All adjectives end in い. **This い is also what gets dropped in conjugations**. Adjectives generally have two forms: predicative and attributive. They apply to the subject.
 
 ## Plain
 | Non-past | Past | Negative | Negative-Past |
