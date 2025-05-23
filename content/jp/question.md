@@ -10,7 +10,7 @@ Marginally more complex questions can be asked when the predicate contains a que
 
 -# In plain speech, adding よ at the end will emphasize the question.
 
-[TODO: exclusively for polite?]: #
+[TODO: exclusively for polite]: #
 When the question word is taken out of the predicate and becomes the subject, and it is followed by the predicate of a basic question, the question now seeks more specific information regarding the topic.　For example, 「座席はどこが**いいです**か。」 — "What seats are **good**?"
 
 [TODO: this applies to the negative too]: #

@@ -3,6 +3,7 @@ topic + time + location + subject + indirect object + direct object + verb/adjec
 
 - Predicative Form: used at the end of the sentence
 - Attributive Form: modifies a noun
+- Continuative Form: actions that are being carried out
 
 [TODO: what is a grammatical role]: #
 Speech registers
@@ -13,15 +14,9 @@ Speech registers
 - ねぇ: a final particle that adds a tone of relief. 
 
 ## が
-『Xがある』 roughly translates to  *"There is X."* When wanting to attach where X is, place it before the subject and attach the case particle に.
-- ある: inanimate objects
-- いる: animate objects
+Using には to mark the possessor (of an item) leaves the door open for someone else to own said object of their own. For example, 『私**には**兄がいます。』 — "I **for one** have an older brother."
 
-"Describe the subject with adjectives or adjectival nouns."
-
-Using には to mark the possessor (of an item) leaves the door open for someone to own said object of their own. For example, 『私**には**兄がいます。』 — "I **for one** have an older brother."
-
-が may be omitted in the necessity case if said necessity is too overwhelming. See 『このお菓子、要る？』 — "Do you really want this candy?"
+が may be omitted in the necessity case if said necessity is too overwhelming. See 『**このお菓子**、要る？』 — "Do you really want **this candy**?"
 
 ## ある & いる
 These verbs either tell that something simply exists or demonstrate possession.
@@ -84,3 +79,10 @@ The particles よ and ね (in that order) at sentence end express a desire for d
 
 ## こそあど
 The plural forms (e.g., それら) are frequently followed by すべて. Think of this phrase as a generic. In this case, do not drop the ら. 『名前も過去も履歴も、**それらすべて**を手放した。』 — "My name, my past, my background, I let go of **all those things**."
+
+## へ
+への is correct; にの is never correct.
+
+The circumstance in which へ appears with 来る is to imply that the starting point is a far away. 
+
+「ニューヨークを**発って**シドニーへ**向かいました**。」 — "I left New York **for** Sydney." Notice where the two verbs are placed and how they're merged into one sentence.
