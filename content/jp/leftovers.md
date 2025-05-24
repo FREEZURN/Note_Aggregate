@@ -13,6 +13,8 @@ Speech registers
 
 - ねぇ: a final particle that adds a tone of relief. 
 
+Adverbs are ??? 「都市に**たくさん**の建物を建てる。」 — "To build **a lot** of buildings in the city."
+
 ## が
 Using には to mark the possessor (of an item) leaves the door open for someone else to own said object of their own. For example, 『私**には**兄がいます。』 — "I **for one** have an older brother."
 
@@ -76,6 +78,9 @@ The responses はい and いいえ. Answer はい to affirm the validity of the 
 
 [here & there]: #
 The particles よ and ね (in that order) at sentence end express a desire for direct confirmation from the listener.
+
+[で]: #
+お金の両替は**どこ**でできますか。 — "**Where** can I exchange money?"
 
 ## こそあど
 The plural forms (e.g., それら) are frequently followed by すべて. Think of this phrase as a generic. In this case, do not drop the ら. 『名前も過去も履歴も、**それらすべて**を手放した。』 — "My name, my past, my background, I let go of **all those things**."

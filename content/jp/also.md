@@ -1,8 +1,8 @@
 # "Also" Particle も
-も is a case and adverbial particle. To the noun it attaches to, も typically conveys that said noun is the same as something else previously discussed. Take the sentence, 『**僕**もお腹が空いた。』 — "**I**'m hungry, too." In a way, the Japanese version is more detailed as it marks what the "too" applies to, instead of relying on established context. It must be noted, though, that even if the noun is the topic, subject or object, も supersedes such case particles (notice how *I* is also the topic, but there is no は).
+も is a case and adverbial particle. It conveys that the associated noun has an identical trait to something else. Take the sentence, 「**僕**もお腹が空いた。」 — "**I**'m hungry, *too*." In a way, Japanese is more particular as it specifies what the "too" applies to. It must be noted, though, that even if the noun is the topic, subject, or object, も supersedes such case particles. 
 
 There are some peculiar patterns involving the particle:
-- XもYも...Aも: "X, Y... and A"
-- XもX: To describe how something was so much like X
+- XもYも...Aも: "X, Y... and A" (without reference to previous context)
+- XもX: Generate an enthusiastic expression about how something (not necessarily a noun) is so much like X
 
-[TODO: need an example for XもX]: #
+-# 「**真ん中も真ん中**、ど真ん中の好球!」 — "Such a great throw right in the center, **smack-dab in the center**!"
