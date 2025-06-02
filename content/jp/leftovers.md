@@ -1,6 +1,12 @@
 ## Japanese 
 topic + time + location + subject + indirect object + direct object + verb/adjective
 
+On order of parts of speech:
+- 窓が部屋にある。
+- 部屋に窓がある。
+- There is a window in the room.
+- In the room, there is a window.
+
 - Predicative Form: used at the end of the sentence
 - Attributive Form: modifies a noun
 - Continuative Form: actions that are being carried out
@@ -16,29 +22,54 @@ Speech registers
 Adverbs are ??? 「都市に**たくさん**の建物を建てる。」 — "To build **a lot** of buildings in the city."
 
 ## が
-Using には to mark the possessor (of an item) leaves the door open for someone else to own said object of their own. For example, 『私**には**兄がいます。』 — "I **for one** have an older brother."
+Using には to mark the possessor (of an item) leaves the door open for someone else to own said object of their own. For example, 『私**には**兄がいます。』 — "I **for one** have an older brother." Dropping the に puts less emphasis on possessor.
 
 が may be omitted in the necessity case if said necessity is too overwhelming. See 『**このお菓子**、要る？』 — "Do you really want **this candy**?"
 
-## ある & いる
-These verbs either tell that something simply exists or demonstrate possession.
-- ある: inanimate objects
-- いる: living beings or social constructs (e.g., family)
+「彼女には前もって**伝えてある**。」 — "She was **informed** \[of that\] beforehand." 'Of that' is the object.
 
-For "there," just using the is copula is only applicable for a specific situation. Take 『夕ご飯はカレーでした。』 — "There was curry for dinner." ある would work if there was no dinner part.
+## ある & いる
+For "there," using the copula is only applicable for a specific situation. Take 『夕ご飯はカレーでした。』 — "There was curry for dinner." ある would work if there was no dinner part.
+
+Kanji alternatives for ある:
+- Existential: 在る
+- Possession: 有る
+- Living: 存る
+
+Kanji alternatives for いる:
+- Existential: 居る
+
+Some ある definitions sprouting from the existential nature:
+- "To occur"
+- "To exist (and maybe even be alive)"
 
 There is a conjugation pattern for verbs to turn it existential? 『銀行に**勤めています**。』 — "I **work** at the bank."
 
+ある can be used to discuss situations that the agent finds themselves in. For example, 「**お客様の担当ドライバーが薬物またはアルコールの影響下**にあるとお考えの場合は、すぐに運転を中止するよう要求してください。」 — "In the event that **you believe your designated driver is under the influence of drugs and/or alcohol**, please immediately request to cancel your ride."
+
+ことがある is a special case for possession. It is for experiences one has had. For example, 「日本に行ったことがあります。」 — "I have gone to Japan."
+
+[と is the quotation particle]: #
+とある is a generic for the situation being quoted? Often written as と書いてある. 「聖書には「初に神は天と地とを創造された」とある。」　— "It is written in the Bible that, 'In the beginning, God created the heavens and the earth.'"
+
+Extra work has to be done when a sentence both talks about existence and how the thing is changing. There's the strange conjugation pattern and using の. 「冷蔵庫の牛乳が腐っている。」 — "There is milk rotting in the fridge." There's also splitting the clauses. 「冷蔵庫には牛乳があって、それが腐っている。」
+
 ## Adjectival Nouns
-である is the uncontracted form of だ.
+A hyphen is placed in between the adjectival noun and the copula to indicate that they are joined. When a word is used as a noun before the copula, no hyphen will be used. This will hold true for any conjugation.
+
+である is the uncontracted form of だ. Actually, な is like a copula too. Either way, the copula is at the end of the clause that is attributing itself to the next.
 
 Some adjectival-nouns were created from an adjective by dropping the ～い and replacing it with either ～か, ～らか, or ～やか. Other adjectival-nouns were created from loanwords.
 
+[の]: #
 『**すばしっこい茶色**の狐はのろまな犬を飛び越える。』 — "The **quick brown** fox jumps over the lazy dog." Chaining modifications of three different types (adjective, adjectival noun, noun).
 
-こと as the modified noun is simply a generic; 『彼女の**こと**が気になっている。』 — "I’m concerned about \[**something regarding**\] her."
+こと as the modified noun is simply a generic; 「彼女の**こと**が気になっている。」 — "I’m concerned about \[**something regarding**\] her."
 
-When a verb is the final part of a compound expression, it is turned into its continuative form then followed with の. Now use it attributively. However, just using the attributive form of the verb is slowing coming back. 『土砂降りの雨』 — "Pouring rain."
+の can actually cover the case where a comma sets off unessential information. In fact, in Japanese, it is often replaced with a comma. 「ゼレンスキー大統領は**ロシア軍から奪還した黒海の拠点の島**、ズミイヌイ島を訪れた。」 — "President Zelensky visited Zmiinyi Island, **an island base in the Black Sea which \[they\] recaptured from the Russian Army**."
+
+[is the continuative form essentially nominalization?]: #
+When a verb is the final part of a compound expression, it is turned into its continuative form then followed with の. Now use it attributively. 「**土砂降り**の雨」 — "**Pouring** rain." However, just using the attributive form of the verb is slowing coming back. 
 
 In historical writing, の can be written as 之 or 乃.
 
@@ -83,11 +114,49 @@ The particles よ and ね (in that order) at sentence end express a desire for d
 お金の両替は**どこ**でできますか。 — "**Where** can I exchange money?"
 
 ## こそあど
+For non-physical, 『**その学生さん**は誰ですか。』 — "Who is **that student**?" The student very much is human, but the question is about their identity.
+
+Pronomial form: 「**それの何**がいけないですか。」 — "**What of that** is wrong?" The attached noun cannot be easily translated with "the" (e.g., "the what" is not grammatical in English).
+
 The plural forms (e.g., それら) are frequently followed by すべて. Think of this phrase as a generic. In this case, do not drop the ら. 『名前も過去も履歴も、**それらすべて**を手放した。』 — "My name, my past, my background, I let go of **all those things**."
 
 ## へ
-への is correct; にの is never correct.
+への is correct; にの is never correct. へとの is never correct.
 
-The circumstance in which へ appears with 来る is to imply that the starting point is a far away. 
+[TODO: direction of motion, or destination?]: #
+へと is a variant that emphasizes the direction. It is almost always interchangeable with へ. 「**未来**へと走れ。」 — "Run toward the **future**."
+
+## て
+Polite forms cannot appear in set phrases, fusion of two verbs (e.g., 取って返す), or in a complex modifier to a noun (e.g., multiple attributes).
+
+If a structure involving a verb predicate is repeated multiple times in the same sentence, the verb, て, and even the preceding case particle can be omitted.
+- ランス君はフランス**へ行って**、セス君は日本**へ行って**、サム君は中国**へ行きました**。
+- ランス君はフランス、 セス君は日本、サム君は中国**へ行きました**。
+- Lance **went to** France, Seth **went to** Japan, and Sam **went to** China.
+
+～なくてよかった is for "glad that X didn't happen." 「雨が降らなくてよかった。」　— "I'm glad that it didn't rain." This is not exclusive to verbs.
 
 「ニューヨークを**発って**シドニーへ**向かいました**。」 — "I left New York **for** Sydney." Notice where the two verbs are placed and how they're merged into one sentence.
+
+There are patterns to produce "must." For example, 「規則を守らなくてはいけない。」 — "\[You/we\] must follow the rules." In the following, は is a contrast particle, and ～ては may contract to ～ちゃ.
+- Informal: ～なくてはだめ
+- Neutral: ～なくてはいけない
+- Formal/Stern: ～なくてはならない
+
+[TODO: is there a second clause in the example???]: #
+Auxiliary verbs can be attached after ～ないで to produce various modals (e.g., request or command). For example, 「タバコを**吸わないで**ほしい。」 — "I want you to **not smoke**." 
+- ～ください: polite command
+- ～くれ: crude command
+- ～ほしい: wish to the listener
+- ～もらう: request from the listener
+- ～おく: leave the situation as is
+
+The actions not being carried out is contrary to what is expected.
+
+～なくてもいい is used to generate the phrase "it's okay not to do X." For example, 「分からなくてもいい。」 — "It's okay not to understand."
+
+Alternatives to ～ていない are ～ないでいる and ～ずにいる. These are used when some state is not possible. For example, 「彼はいつも**落ち着かないでいる**。」 — "He is always **not at ease**." Don't know if いる can be conjugated. ～ずにいる is more formal and poetic.
+
+いる and ある cannot use the stative conjugations themselves (semantic redundancy???).
+
+The contexts the existential verbs can be used is when the object is naturally there or how it got there is obvious. 「冷蔵庫にはケーキがある」 — "There is a cake in the refrigerator," the cake was obviously put in by somebody. Using the stative forms comes about when one wants to express how the item got into such a state of being.

@@ -6,15 +6,10 @@ Adjectival nouns must be conjugated to act as an adjective. However, these conju
 
 -# Polite forms do not have an attributive form.
 
-～である attaches to the predicate of a clause that is modifying a noun. This predicate can either be a noun or adjectival-noun. Interestingly, the adjectival-noun can be the predicate for the entire sentence and can still be attached with ～である. 
+な is for an adjectival noun that is modifying a noun. It is also able to replace ～である when the sentence is existential in nature.
 
-～な is for a non-predicate adjectival noun that is modifying a noun. It is also able to replace ～である when the sentence is existential in nature.
+の is for a noun modifying another noun. の is a case particle that attaches to the specifier of the following item. For example, 「**雲**の形」 — "Shape of a **cloud**." Multiple のs can be chained together. An interesting use of の is where the next noun is a relative noun (e.g., 下). This will produce adverbs such as through, while, and after. For example, 「**子供の頃**は病弱でした。」 — "I was sickly **when I was a kid**." 
 
-[TODO: might be moved to its own page]: #
-～の is for a non-predicative noun modifying another noun. の is a case particle, not a conjugation. One way it is used is when the modifier noun is actually the parent vertex of which the modified noun is a child of; a way to think about is is の as "'s." For example, 『雲**の**形』 — "Cloud**'s** shape." This quirk can be used with relative nouns (e.g., 下) as the modified noun in order to produce adverbs like through, while, and time when. For example, 『**子供の頃**は病弱でした。』 — "I was sickly **when I was a kid**." Alternatively, the modifier noun is simply an attribute (e.g., appearance or purpose) of the modified noun. のs can be chained to a series of nouns. 
+-# An adjectival noun may be a specifier if it is what is known as a "no-adjectival noun." Compared to な, の is more empathetic and "personal."
 
--# The subject is always the modified noun.
-
--# A comma may replace の if the circumstance permits.
-
--# A non-predicate adjectival noun may serve as a modifier noun if it is what is known as a "no-adjectival noun." Compared to な, の is more empathetic and "personal." Adverbs are also possible.
+である attaches to the predicate of a clause that is modifying a noun. This predicate can either be a noun or adjectival-noun. Interestingly, the adjectival-noun can be the predicate for the entire sentence and can still be attached with ～である. 

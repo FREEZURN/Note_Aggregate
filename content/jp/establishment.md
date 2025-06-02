@@ -2,21 +2,15 @@
 Establishment describes the state of the subject. に is a case particle specifically for this.
 
 ## Location
-One use of に is to denote the location, whether or not literal or moving, of the verb. Regarding literal, take the sentence, 「彼女は**男の子**に人気がある。」 — "She has popularity among **boys**." Her possession (marked with the object marker が) can be found with boys.
+に denotes the location of the action. This location may be literal or abstract, and still or moving. An abstract location would be, 「彼女は**男の子**に人気がある。」 — "She has popularity among **boys**." A moving location would be, 「**バス**に乗りました。」 — "I rode the **bus**." With に, the action has a *deep intrinsic connection with the place*. This would include states of being (i.e., unconsciously), but also when the action is fixated on a well-defined place (e.g., the bus).
 
-[TODO: に is states of being; で relates to occurrences (i.e., used with actions that don't occur consistently, like swimming)]: #
-[に is to be used for actions that can be observed??? and "to work" is not such one???]: #
-Unlike に, the case particle で does not imply a deep connection between the action and place of said action. For example, 「ここで働いています。」 — "I'm working here," suggests that I feel not too attached to the workplace (i.e., temporary job or not too involved). 
+-# に may be dropped to lessen the emphasis on location.
 
-Another function of the case particle で, although not paralleled by に, is the ability to mark the means in which the action is carried out. 
+で is when the location and action *do not have a deep intrinsic relationship*. To demonstrate its difference with に, consider the sentence 「ここで働いています。」 — "I'm working here." I don't feel attached to the organization (i.e., temporary job or not too involved); I'm just working. On the other hand, when で is replaced with に, I feel as though I'm part of the organization; I work here, and my occupation is part of my state of being.
 
-## Direction
-For motion verbs (e.g., 来る), に marks the destination. This destination need not be a physical place. For example, 「今期の利益は**百億円**に達しました。」 — "This term's profits reached **ten billion yen**."
+## Destination
+に marks the destination for motion verbs (e.g., 来る). This destination need not be a physical place. For example, 「今期の利益は**百億円**に達しました。」 — "This term's profits reached **ten billion yen**."
 
-The case particle へ, pronounced "e," can substitute に in only this circumstance. The destination is typically far and abstract (e.g., a city). A limitation is that へ always implies going off somewhere, so it is frequently not used with 来る. Alternatively, the speaker is trying to be less direct and/or more formal. へと is a stronger variant that emphasizes direction; it is almost always interchangeable with へ.
+へ, pronounced /e/, is a case particle that can substitute に. The destination is typically far and abstract to a degree. Regarding abstract, a desk would not fit this criteria but a restaurant would. Alternatively, the speaker is trying to be less direct and/or more formal. へ always implies going off somewhere, so it is not paired with arrival often (e.g., 来る). The circumstance in which へ does appear with 来る is when they're still on the way or the destination is open to interpretation. Two sentences to consider: 「彼は間もなくここへ来ます」　— "He will be here shortly;" 「ここへ座って話を聴いてください」 — "Come and sit down \[**around**\] here and listen." 
 
--# へ and に disappear in casual speech, at least for this purpose. 
-
-This notion drives に as an *indirect object marker*. An indirect object is simply another, optional entity that is associated with the action. It commonly is the recipient—the destination. Consider, 「ケイトさんは**テイラー君**にチョコをくれました。」 — "Kate-san gave **Taylor-kun** chocolate." に may appear for intransitive verbs and adjectives. For an adjectival example, 「セスさんは**カタルーニャ語**にも詳しいですよ。」 — "Seth-san is also knowledgeable in **Catalan**."
-
--# The direct object in English can sometimes be the indirect object in Japanese.
+-# へ and に often disappear in casual speech. 
