@@ -127,13 +127,14 @@ The plural forms (e.g., それら) are frequently followed by すべて. Think o
 へと is a variant that emphasizes the direction. It is almost always interchangeable with へ. 「**未来**へと走れ。」 — "Run toward the **future**."
 
 ## て
-Polite forms cannot appear in set phrases, fusion of two verbs (e.g., 取って返す), or in a complex modifier to a noun (e.g., multiple attributes).
+If the next action is dependent on the previous, then the previous clause can be described as the means to performing the next action. For example, 「**魔法のメガネをかけて**読んだ。」 — "I read it **by putting on magic glasses**."
 
 If a structure involving a verb predicate is repeated multiple times in the same sentence, the verb, て, and even the preceding case particle can be omitted.
 - ランス君はフランス**へ行って**、セス君は日本**へ行って**、サム君は中国**へ行きました**。
 - ランス君はフランス、 セス君は日本、サム君は中国**へ行きました**。
 - Lance **went to** France, Seth **went to** Japan, and Sam **went to** China.
 
+[TODO: we are here]: #
 ～なくてよかった is for "glad that X didn't happen." 「雨が降らなくてよかった。」　— "I'm glad that it didn't rain." This is not exclusive to verbs.
 
 「ニューヨークを**発って**シドニーへ**向かいました**。」 — "I left New York **for** Sydney." Notice where the two verbs are placed and how they're merged into one sentence.

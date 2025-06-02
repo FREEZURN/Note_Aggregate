@@ -1,27 +1,28 @@
 # Conjunctive Particle て
-To connect clauses using the word "and" conjugate with て. 
+To connect independent clauses using the conjunction "and," conjugate the predicate of the earlier clause with て. 
 
-## Plain
-| Part of speech | Affirmative |
+## Affirmative
+**Basic:**
+
+| Part of speech | Conjugation |
 | -------------- | ----------- |
 | Copula | で |
 | Adjective | ～くて　|
 | Verb | Replace ～た of past conjugation with ～て <br> (or ～だ with ～で) |
 
-## Polite
-| Part of speech | Affirmative | Negative |
-| -------------- | ----------- | -------- |
+**Polite:**
+
+| Part of speech | Conjugation |
+| -------------- | ----------- |
 | Copula | でして |
 | Adjective | TBD　|
 | Verb | Replace ～た of polite past conjugation with ～て |
 
-## Utility
-Of course there is always the option to split the clauses into their own sentence. However, one reason to use the te-form is to create a dependent relationship in which the events of the next clause is depending on those of this clause. For example, 「この日本語の文章が複雑で、よく分かりませんでした。」 — "This Japanese passage was complicated, *and so* I didn’t understand it well."
+Of course, there is always the option to split the clauses into individual sentences. However, one reason to use the te-form is to convey that the events of this clause lead to those of the next. For example, 「この日本語の文章が複雑で、よく分かりませんでした。」 — "This Japanese passage was complicated, *and so* I didn’t understand it well." 
 
-[TODO: agent means doer; the subject basically]: #
-There are some extra functions relating to verbs. Actions often occur in the same order as they appear. If the next action is dependent on the previous, then the previous clause can be described as the means to performing the next action. For example, 「**魔法のメガネをかけて**読んだ。」 — "I read it **by putting on magic glasses**." Alternatively, if the actions have different agents, then the actions are happening in tandem with each other. For example 「僕がポケモンをやってテイラー君がフォートナイトをやった。」 — "I played Pokémon and Taylor played Fortnite." Or both verbs are concurrent yet contradict each other. The sentence 「見て見ぬふりをする。」　— "To turn a blind eye," there is 'see' and 'pretending not to see.'
+There are some additional functions exclusive to verbs. Actions often occur in the same order as they appear. If the actions have different agents, then the actions happen in tandem. Two verbs may be compounded by a te-form conjugation on the first verb. Thus, the first verb sets the tone and the second hits the nail on the head. This leads to sentences like, 「真意を**見て取る**。」 — "To **grasp** the real sense."
 
-て can be used to apply multiple attributes, particularly adjectives and adjectival nouns but also clauses, to a noun all at once. For example, 「東京は**賑やかで面白い**。」 — "Tokyo **is lively and interesting**." 
+て can be used to apply multiple attributes, particularly adjectives and adjectival nouns, but also clauses, to a noun all at once. For example, 「東京は**賑やかで面白い**。」 — "Tokyo **is lively and interesting**." 
 
 [TODO: this て is a final particle despite making up a conjugation]: #
 [negative: commanding the action not be done]: #
