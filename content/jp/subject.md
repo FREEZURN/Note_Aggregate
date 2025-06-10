@@ -1,5 +1,5 @@
 # Subject Marker が
-**が** is a *case particle* that marks the **subject** of a sentence. A role the subject plays, for instance, is performing actions described by verbs. Additionally, it is a way to introduce information that is contextually new to the listener. That is not to say that the subject is strictly "unregistered information," though.
+**が** is a *case particle* that marks the **subject** of a sentence. A role the subject plays, for instance, is performing (transitive or intransitive) actions described by verbs. Additionally, it is a way to introduce information that is contextually new to the listener. That is not to say that the subject is strictly "unregistered information," though.
 
 ## Neutral Statements
 One common way to use が is in neutral sentences. Some neutral statements proclaim the existence of or describe the subject. 

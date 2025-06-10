@@ -91,15 +91,15 @@ The following conjugations concern the pronunciations; the first mora is typical
 
 -# Polite conjugations do possess an attributive form, but it is seen as ungrammatical by many.
 
-[TODO: new]: #
 ## Existential: ある & いる
 **ある** is a godan verb with *irregular conjugations for plain negatives*: ない and なかった. **いる** is an ichidan verb. They indicate states of being.
 
-[object as in が]: #
 As an existential verb, it can be roughly understood as, "There is \<object\>." ある is for inanimate objects or abstract ideas; いる is for something alive and animate. There are some additional notes on いる: it can personify, and it can also imply animacy and that the state of being is fleeting.  For example, 「あそこにバスがいる」 — "There is a bus **\[that had just finished transit\]** over there."
 
 -# Dead things, especially humans and pets, are commonly paired with いる.
 
 -# おる is a dialectal variant of いる.
+
+Showing existence is only applicable when the object is naturally there or it is obvious how the object got there. 「冷蔵庫にはケーキがある」 — "There is a cake in the refrigerator," the cake was obviously put in by somebody.
 
 Another crucial use of these verbs is to communicate that the \<subject\> has the \<object\>. いる does also cover blood relationships. 

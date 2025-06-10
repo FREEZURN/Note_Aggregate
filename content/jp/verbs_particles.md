@@ -1,10 +1,10 @@
 # Particles for Verbs
 
 ## Direct Object を
-This case particle attaches to *whatever is receiving the transitive action*. を is typically pronounced "o" in this and the following context.
+This case particle attaches to *whatever is receiving the transitive action*. を is typically pronounced /o/ in this and the transition context.
 
 ## Object が
-A **stative verb** (e.g., have or need) simply expresses a *state or condition*, the object. The agent has no control over their state, thus the object is marked with が. Stative verbs can either be transitive or intransitive. Alternatively, an adjective or adjectival noun may serve a similar function. For example, 「妖怪が**怖い**！」 — "I'm **scared** of ghosts."
+A **stative verb** (e.g., have or need) simply expresses a state or condition of the subject. The subject has no control over their state of being. Obviously the verb is associated with the action; thus, the object is *the descriptor*. Stative verbs can either be transitive or intransitive. Alternatively, an adjective or adjectival noun may serve a similar function. For example, 「**妖怪**が怖い！」 — "I'm scared of **ghosts**."
 
 -# The example sentence may be interpreted as "Ghosts are scary!" too (using が as the subject marker), depending on the context.
 

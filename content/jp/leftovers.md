@@ -28,6 +28,8 @@ Using には to mark the possessor (of an item) leaves the door open for someone
 
 「彼女には前もって**伝えてある**。」 — "She was **informed** \[of that\] beforehand." 'Of that' is the object.
 
+When there is one が to mark the subject, and another が for the object, the subject is exhaustive.
+
 ## ある & いる
 For "there," using the copula is only applicable for a specific situation. Take 『夕ご飯はカレーでした。』 — "There was curry for dinner." ある would work if there was no dinner part.
 
@@ -43,16 +45,12 @@ Some ある definitions sprouting from the existential nature:
 - "To occur"
 - "To exist (and maybe even be alive)"
 
-There is a conjugation pattern for verbs to turn it existential? 『銀行に**勤めています**。』 — "I **work** at the bank."
-
 ある can be used to discuss situations that the agent finds themselves in. For example, 「**お客様の担当ドライバーが薬物またはアルコールの影響下**にあるとお考えの場合は、すぐに運転を中止するよう要求してください。」 — "In the event that **you believe your designated driver is under the influence of drugs and/or alcohol**, please immediately request to cancel your ride."
 
 ことがある is a special case for possession. It is for experiences one has had. For example, 「日本に行ったことがあります。」 — "I have gone to Japan."
 
 [と is the quotation particle]: #
 とある is a generic for the situation being quoted? Often written as と書いてある. 「聖書には「初に神は天と地とを創造された」とある。」　— "It is written in the Bible that, 'In the beginning, God created the heavens and the earth.'"
-
-Extra work has to be done when a sentence both talks about existence and how the thing is changing. There's the strange conjugation pattern and using の. 「冷蔵庫の牛乳が腐っている。」 — "There is milk rotting in the fridge." There's also splitting the clauses. 「冷蔵庫には牛乳があって、それが腐っている。」
 
 ## Adjectival Nouns
 A hyphen is placed in between the adjectival noun and the copula to indicate that they are joined. When a word is used as a noun before the copula, no hyphen will be used. This will hold true for any conjugation.
@@ -120,6 +118,10 @@ Pronomial form: 「**それの何**がいけないですか。」 — "**What of
 
 The plural forms (e.g., それら) are frequently followed by すべて. Think of this phrase as a generic. In this case, do not drop the ら. 『名前も過去も履歴も、**それらすべて**を手放した。』 — "My name, my past, my background, I let go of **all those things**."
 
+## に
+[from ある & いる]: #
+When a sentence both talks about the object's existence and how the object is changing, の takes the place of に. 「冷蔵庫の牛乳が腐っている。」 — "There is milk rotting in the fridge." 
+
 ## へ
 への is correct; にの is never correct. へとの is never correct.
 
@@ -134,30 +136,19 @@ If a structure involving a verb predicate is repeated multiple times in the same
 - ランス君はフランス、 セス君は日本、サム君は中国**へ行きました**。
 - Lance **went to** France, Seth **went to** Japan, and Sam **went to** China.
 
-[TODO: we are here]: #
-～なくてよかった is for "glad that X didn't happen." 「雨が降らなくてよかった。」　— "I'm glad that it didn't rain." This is not exclusive to verbs.
-
-「ニューヨークを**発って**シドニーへ**向かいました**。」 — "I left New York **for** Sydney." Notice where the two verbs are placed and how they're merged into one sentence.
-
 There are patterns to produce "must." For example, 「規則を守らなくてはいけない。」 — "\[You/we\] must follow the rules." In the following, は is a contrast particle, and ～ては may contract to ～ちゃ.
 - Informal: ～なくてはだめ
 - Neutral: ～なくてはいけない
 - Formal/Stern: ～なくてはならない
 
+～なくてもいい is used to generate the phrase "it's okay not to do X." For example, 「分からなくてもいい。」 — "It's okay not to understand."
+
+[TODO: idk]: #
+Alternatives to ～ていない are ～ないでいる and ～ずにいる. The latter is more formal and poetic. These are only really used when the affirmative state cannot be perpetual. For example, 「彼はいつも**落ち着かないでいる**。」 — "He is always **not at ease**." Don't know if いる can be conjugated. 
+
+## Auxiliary
 [TODO: is there a second clause in the example???]: #
 Auxiliary verbs can be attached after ～ないで to produce various modals (e.g., request or command). For example, 「タバコを**吸わないで**ほしい。」 — "I want you to **not smoke**." 
-- ～ください: polite command
-- ～くれ: crude command
 - ～ほしい: wish to the listener
 - ～もらう: request from the listener
 - ～おく: leave the situation as is
-
-The actions not being carried out is contrary to what is expected.
-
-～なくてもいい is used to generate the phrase "it's okay not to do X." For example, 「分からなくてもいい。」 — "It's okay not to understand."
-
-Alternatives to ～ていない are ～ないでいる and ～ずにいる. These are used when some state is not possible. For example, 「彼はいつも**落ち着かないでいる**。」 — "He is always **not at ease**." Don't know if いる can be conjugated. ～ずにいる is more formal and poetic.
-
-いる and ある cannot use the stative conjugations themselves (semantic redundancy???).
-
-The contexts the existential verbs can be used is when the object is naturally there or how it got there is obvious. 「冷蔵庫にはケーキがある」 — "There is a cake in the refrigerator," the cake was obviously put in by somebody. Using the stative forms comes about when one wants to express how the item got into such a state of being.
